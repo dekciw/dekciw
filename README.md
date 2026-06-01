@@ -17,8 +17,8 @@
 
 ## Инструменты и технологии
 
-- 🔤 **Языки и платформы**: JavaScript, TypeScript, HTML, CSS, Node.js, SASS
-- 🛠️ **Фреймворки и инструменты**: React, Redux Toolkit, MobX, Next.js, Vue, Angular, Vite, VS Code, Figma, Chrome DevTools, Vercel
+- 🔤 **Языки и платформы**: JavaScript, TypeScript, HTML, CSS, SQL, Node.js, SASS
+- 🛠️ **Фреймворки и инструменты**: React, Redux Toolkit, MobX, Next.js, Vue, Angular, Vite, VS Code, Figma, Vercel
 - 🗄️ **Database & Cache**: PostgreSQL, MySQL
 - 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux
 - 🤖 **LLMs**: OpenAI, Anthropic, HuggingFace
