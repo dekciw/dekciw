@@ -17,12 +17,12 @@
 
 ## Инструменты и технологии
 
-- 🔤 **Языки и платформы**: JavaScript, TypeScript, HTML, CSS
-- 🛠️ **Фреймворки и инструменты**: React, Redux Toolkit, VS Code, Figma, Chrome DevTools, Versel
-- 🗄️ **Database & Cache**: PostgreSQL, MySQL.
-- 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux.
-- 🤖 **LLMs**: OpenAI, Anthropic, HuggingFace.
-- 📱 **Прочее**: Figma, Git.
+- 🔤 **Языки и платформы**: JavaScript, TypeScript, HTML, CSS, Node.js, SASS
+- 🛠️ **Фреймворки и инструменты**: React, Redux Toolkit, MobX, Next.js, Vue, Angular, Vite, VS Code, Figma, Chrome DevTools, Vercel
+- 🗄️ **Database & Cache**: PostgreSQL, MySQL
+- 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux
+- 🤖 **LLMs**: OpenAI, Anthropic, HuggingFace
+- 📱 **Прочее**: Figma, Git, npm
 
 <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,react,redux,webstorm,vue,postgres,npm,angular,nodejs,figma,ps,vite,linux,git,github,notion,gitlab,vscode&perline=11"/>
 
