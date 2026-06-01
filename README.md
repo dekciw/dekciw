@@ -13,26 +13,18 @@
 
 Сейчас пишу на React, собираю стейт на Redux, иногда экспериментирую с новыми фреймворками. Нравится процесс — когда из макета в Figma получается живой продукт, где всё работает как надо.
 
-**Уровень:** Junior (но уверенно растущий)
+**Grade: Junior**
 
-## Что использую
+## Инструменты и технологии
 
-**Основной стек:**
-- JavaScript, TypeScript, HTML, CSS/SASS
-- React, Redux Toolkit, Next.js
-- Git, npm, Vite
-- Figma, VS Code, Chrome DevTools
+- 🔤 **Языки и платформы**: JavaScript, TypeScript, HTML, CSS
+- 🛠️ **Фреймворки и инструменты**: React, Redux Toolkit, VS Code, Figma, Chrome DevTools, Versel
+- 🗄️ **Database & Cache**: PostgreSQL, MySQL.
+- 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux.
+- 🤖 **LLMs**: OpenAI, Anthropic, HuggingFace.
+- 📱 **Прочее**: Figma, Git.
 
-**Пробовал / знаком:**
-- Vue, Angular
-- PostgreSQL, MySQL
-- Node.js (базово)
-- Vercel для деплоя
-
-**AI-инструменты:**
-- Claude (Anthropic), ChatGPT, локальные LLM через HuggingFace
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,vue,nodejs,vite,npm,git,github,figma,vscode,postgres,vercel&perline=9"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,react,redux,webstorm,vue,postgres,npm,angular,nodejs,figma,ps,vite,linux,git,github,notion,gitlab,vscode&perline=11"/>
 
 ## Контакты
 
