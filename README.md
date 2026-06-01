@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100%"/>
+  <img src="https://c.tenor.com/FrgtgaWOjIEAAAAC/mexinyan-taco.gif" width="100%"/>
 </div>
 
 **[Eng version](readme.en.md)**
