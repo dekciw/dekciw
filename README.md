@@ -1,3 +1,5 @@
+![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
+
 **[Eng version](readme.en.md)**
 
 # Всем Привет! 👋 Меня зовут Роман
