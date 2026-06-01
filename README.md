@@ -26,11 +26,6 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux,nextjs,vue,angular,nodejs,vite,docker,postgres,mysql,npm,git,github,gitlab,vercel,webstorm,vscode,figma,linux&perline=13"/>
 
-<p align="left">
-  <img src="icons/chatgpt.svg" alt="ChatGPT" width="48" height="48"/>
-  <img src="icons/claude.svg" alt="Claude" width="48" height="48"/>
-</p>
-
 ## Контакты
 
 - [Telegram](https://t.me/atanov_roman)
