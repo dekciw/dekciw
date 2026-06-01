@@ -19,12 +19,12 @@
 
 - 🔤 **Языки и платформы**: JavaScript, TypeScript, HTML, CSS, SQL, Node.js, SASS
 - 🛠️ **Фреймворки и инструменты**: React, Redux Toolkit, MobX, Next.js, Vue, Angular, Tailwind CSS, Vite, Docker, VS Code, Figma, Vercel
-- 🗄️ **Database & Cache**: PostgreSQL, MySQL
+- 🗄️ **Database & Cache**: PostgreSQL, MySQL, MongoDB
 - 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux
 - 🤖 **LLMs**: OpenAI, Anthropic, HuggingFace
 - 📱 **Прочее**: Figma, Git, npm
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux,nextjs,vue,angular,nodejs,vite,docker,postgres,mysql,npm,git,github,gitlab,vercel,webstorm,vscode,figma,linux&perline=13"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux,nextjs,vue,angular,nodejs,vite,docker,postgres,mysql,mongodb,npm,git,github,gitlab,vercel,webstorm,vscode,figma,linux&perline=13"/>
 
 ## Контакты
 
