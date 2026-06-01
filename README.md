@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100%" alt="Nyan Cat"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100%"/>
+</div>
 
 **[Eng version](readme.en.md)**
 
