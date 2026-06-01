@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://c.tenor.com/FrgtgaWOjIEAAAAC/mexinyan-taco.gif" width="100%"/>
+  <img src="https://c.tenor.com/FrgtgaWOjIEAAAAC/mexinyan-taco.gif" height="200" align="center"/>
+  <img src="https://i.postimg.cc/k4YQTxMh/1.png" height="150" align="center"/>
 </div>
 
 **[Eng version](readme.en.md)**
