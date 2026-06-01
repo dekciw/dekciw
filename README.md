@@ -24,7 +24,7 @@
 - 🤖 **LLMs**: OpenAI, Anthropic, HuggingFace
 - 📱 **Прочее**: Figma, Git, npm
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,vue,angular,nodejs,vite,postgres,mysql,npm,git,github,gitlab,vercel,webstorm,vscode,figma,linux,chatgpt,claude&perline=11"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,vue,angular,nodejs,vite,postgres,mysql,npm,git,github,gitlab,vercel,webstorm,vscode,figma,linux,chatgpt,claude&perline=13"/>
 
 ## Контакты
 
