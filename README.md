@@ -27,21 +27,3 @@
 - 📱 **Прочее**: Figma, Git, npm
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux,nextjs,vue,angular,nodejs,vite,docker,postgres,mysql,mongodb,npm,git,github,gitlab,vercel,webstorm,vscode,figma,linux&perline=13"/>
-
-## Контакты
-
-- [Telegram](https://t.me/atanov_roman)
-
-## 🛠️ Навыки
-
-- Быстрое обучение
-- Решение нестандартных задач
-- Работа с API
-
-## 📈 Статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dekciw&show_icons=true&theme=radical)
-
-<!-- Pull Shark 1 -->
-
-<!-- Pull Shark 2 -->
