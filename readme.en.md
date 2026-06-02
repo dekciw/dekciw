@@ -2,27 +2,23 @@
 
 # Hi there! 👋 I'm Roman
 
-I'm a frontend developer passionate about building intuitive and friendly interfaces. I love turning ideas into working products and making complex things feel simple.
+Frontend developer. Building web interfaces and writing code.
 
-By education I'm an engineer. My journey into IT started with an attempt to launch my own startup — **[Logiways](https://logiways.ru/)**, a web service for international logistics.
+By education, I'm an engineer, currently developing my startup **[Logiways](https://logiways.ru/)** — a service for international logistics. When I started the project, I realized it was easier to learn development myself than to search for a team. Began with HTML/CSS, gradually moved to React and the modern frontend stack.
 
-At first, I was looking for developers who could help bring the project to life, but finding the right specialists turned out to be difficult. So I decided to try it myself: I began with layout development and then immersed myself deeper into frontend engineering.
+Currently working on my own projects, building applications from scratch and automating business processes. I focus on solving real problems with code — this gives more practical experience than just learning from tutorials.
 
-That was the start of a new path for me — creating modern, functional, and beautiful web applications. Since then, I've been inspired by growth, new technologies, and the chance to build products that truly work.
+Main stack: React, Redux, TypeScript, Tailwind. Experimenting with Next.js, trying different approaches to state management.
 
-**Grade: Junior**
+**Level: Junior** (but with practical experience)
 
 ## Tools & Technologies
 
-- 🔤 **Languages & Platforms**: JavaScript, TypeScript, HTML, CSS
-- 🛠️ **Frameworks & Tools**: React, Redux Toolkit, VS Code, Figma, Chrome DevTools, Vercel
-- 🗄️ **Database & Cache**: PostgreSQL, MySQL
+- 🔤 **Languages & Platforms**: JavaScript, TypeScript, HTML, CSS, SQL, Node.js, SASS
+- 🛠️ **Frameworks & Tools**: React, Redux Toolkit, MobX, Next.js, Vue, Angular, Tailwind CSS, Vite, Docker, VS Code, Figma, Vercel
+- 🗄️ **Database & Cache**: PostgreSQL, MySQL, MongoDB
 - 💻 **OS & Editors**: VS Code / Zed on macOS, Windows, Linux
 - 🤖 **LLMs**: OpenAI, Anthropic, HuggingFace
-- 📱 **Other**: Figma, Git
+- 📱 **Other**: Figma, Git, npm
 
-<img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,react,redux,webstorm,vue,postgres,npm,angular,nodejs,figma,ps,vite,linux,git,github,notion,gitlab,vscode&perline=11"/>
-
-## Contacts
-
-- [Telegram](https://t.me/atanov_roman)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux,nextjs,vue,angular,nodejs,vite,docker,postgres,mysql,mongodb,npm,git,github,gitlab,vercel,webstorm,vscode,figma,linux&perline=13"/>
