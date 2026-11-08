@@ -2,23 +2,22 @@
 
 # Hi there! 👋 I'm Roman
 
-Frontend developer. Building web interfaces and writing code.
+Fullstack developer with an engineering degree. I build web interfaces and backend services, and I love automating routine work.
 
-By education, I'm an engineer, currently developing my startup **[Logiways](https://logiways.ru/)**, a service for international logistics. When I started the project, I realized it was easier to learn development myself than to search for a team. Began with HTML/CSS, gradually moved to React and the modern frontend stack.
+I got into programming after university: watching YouTube videos, reading articles and trying to write code. I spent a year teaching myself frontend development, then started applying it in practice in my own startup **[Logiways](https://logiways.ru/)**, a service for international logistics.
 
-Currently working on my own projects, building applications from scratch and automating business processes. I focus on solving real problems with code, this gives more practical experience than just learning from tutorials.
+Right now I'm growing in backend development, focusing mainly on Python and Go. What I enjoy most is making complex things simpler: turning processes that used to take time and lots of manual steps into clear and convenient tools.
 
-Main stack: React, Redux, TypeScript, Tailwind. Experimenting with Next.js, trying different approaches to state management.
-
-**Level: Junior** (but with practical experience)
+In my free time I travel and watch the NBA.
 
 ## Tools & Technologies
 
-- 🔤 **Languages & Platforms**: JavaScript, TypeScript, HTML, CSS, SQL, Node.js, SASS
-- 🛠️ **Frameworks & Tools**: React, Redux Toolkit, MobX, Next.js, Vue, Angular, Tailwind CSS, Vite, Docker, VS Code, Figma, Vercel
-- 🗄️ **Database & Cache**: PostgreSQL, MySQL, MongoDB
+- 🔤 **Languages**: Python, Go, JavaScript, TypeScript, SQL, HTML, CSS, SASS
+- 🛠️ **Frameworks & Libraries**: React, Redux Toolkit, MobX, Next.js, Vue, Angular, Node.js, FastAPI, Tailwind CSS, Vite
+- ☁️ **Infrastructure & DevOps**: Docker, Kubernetes, Nginx, Kafka, Google Cloud, AWS, Vercel
+- 🗄️ **Databases & Cache**: PostgreSQL, MySQL, MongoDB, Redis
 - 💻 **OS & Editors**: VS Code / Zed on macOS, Windows, Linux
 - 🤖 **LLMs**: OpenAI, Anthropic, HuggingFace
 - 📱 **Other**: Figma, Git, npm
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux,nextjs,vue,angular,nodejs,vite,docker,postgres,mysql,mongodb,npm,git,github,gitlab,vercel,webstorm,vscode,figma,linux&perline=13"/>
+<img src="https://skillicons.dev/icons?i=py,go,js,ts,html,css,sass,react,redux,nextjs,vue,angular,nodejs,fastapi,tailwind,vite,docker,kubernetes,nginx,kafka,gcp,aws,vercel,postgres,mysql,mongodb,redis,git,github,gitlab,npm,vscode,webstorm,figma,linux&perline=13"/>

@@ -7,23 +7,22 @@
 
 # Привет! 👋 Я Роман
 
-Фронтенд разработчик. Создаю веб-интерфейсы и пишу код.
+Fullstack-разработчик с инженерным образованием. Создаю веб-интерфейсы и серверную часть, люблю автоматизировать рутину.
 
-По образованию инженер, развиваю свой стартап **[Logiways](https://logiways.ru/)**, сервис для международной логистики. Когда запускал проект, понял, что проще освоить разработку самому, чем искать команду. Начал с HTML/CSS, постепенно перешёл на React и современный фронтенд стек.
+В программирование пришёл после университета: смотрел видео на YouTube, читал статьи и пробовал писать код. Год самостоятельно изучал frontend, а затем начал применять знания на практике в собственном стартапе **[Logiways](https://logiways.ru/)**, сервисе для международной логистики.
 
-Сейчас работаю над собственными проектами, создаю приложения с нуля и автоматизирую бизнес-процессы. Фокусируюсь на решении реальных задач кодом, это даёт больше практического опыта, чем просто изучение по туториалам.
+Сейчас развиваюсь в серверной разработке, основное внимание уделяю Python и Go. Больше всего мне нравится делать сложные вещи проще: превращать процессы, которые требовали времени и ручных действий, в понятные и удобные инструменты.
 
-Основной стек: React, Redux, TypeScript, Tailwind. Экспериментирую с Next.js, пробую разные подходы к стейт менеджменту.
-
-**Уровень: Junior** (но с практическим опытом)
+В свободное время путешествую и смотрю NBA.
 
 ## Инструменты и технологии
 
-- 🔤 **Языки и платформы**: JavaScript, TypeScript, HTML, CSS, SQL, Node.js, SASS
-- 🛠️ **Фреймворки и инструменты**: React, Redux Toolkit, MobX, Next.js, Vue, Angular, Tailwind CSS, Vite, Docker, VS Code, Figma, Vercel
-- 🗄️ **Database & Cache**: PostgreSQL, MySQL, MongoDB
-- 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux
-- 🤖 **LLMs**: OpenAI, Anthropic, HuggingFace
+- 🔤 **Языки**: Python, Go, JavaScript, TypeScript, SQL, HTML, CSS, SASS
+- 🛠️ **Фреймворки и библиотеки**: React, Redux Toolkit, MobX, Next.js, Vue, Angular, Node.js, FastAPI, Tailwind CSS, Vite
+- ☁️ **Инфраструктура и DevOps**: Docker, Kubernetes, Nginx, Kafka, Google Cloud, AWS, Vercel
+- 🗄️ **Базы данных и кэш**: PostgreSQL, MySQL, MongoDB, Redis
+- 💻 **ОС и редакторы**: VS Code / Zed на macOS, Windows, Linux
+- 🤖 **LLM**: OpenAI, Anthropic, HuggingFace
 - 📱 **Прочее**: Figma, Git, npm
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux,nextjs,vue,angular,nodejs,vite,docker,postgres,mysql,mongodb,npm,git,github,gitlab,vercel,webstorm,vscode,figma,linux&perline=13"/>
+<img src="https://skillicons.dev/icons?i=py,go,js,ts,html,css,sass,react,redux,nextjs,vue,angular,nodejs,fastapi,tailwind,vite,docker,kubernetes,nginx,kafka,gcp,aws,vercel,postgres,mysql,mongodb,redis,git,github,gitlab,npm,vscode,webstorm,figma,linux&perline=13"/>
